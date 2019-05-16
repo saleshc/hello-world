@@ -1,3 +1,3 @@
 # hello-world
 Just starting with Git
-I'm new the Git and Programing world, want to learn an grow as a developer.
+#I'm new to Git and Programing world, want to learn and grow as a developer.
